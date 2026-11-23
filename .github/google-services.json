@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517027629392",
+    "project_id": "like-house-c7f02",
+    "storage_bucket": "like-house-c7f02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517027629392:android:2a6a594cc26667f7aa0455",
+        "android_client_info": {
+          "package_name": "com.example.like_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXub_TAox_i7LFjdNj3vnnIE-FyR0T2mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
